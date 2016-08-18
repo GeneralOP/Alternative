@@ -1,0 +1,5 @@
+name: Alternative
+version: 1.0
+description: Another freedom plugin for GeneralOp, possibly back-up
+authors: [Mayoralty]
+main: me.mayoralty.alternative.Core
